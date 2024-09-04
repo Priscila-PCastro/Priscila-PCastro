@@ -1,6 +1,6 @@
 # Hi everyone! 👋 👋
 
-:frowning_woman: I'm PPriscila Castro and I <br>
+:frowning_woman: I'm Priscila Castro and I <br>
 :telescope:	am Systems Analyst who<br>
 :heart: loves Data Science <br>
 :woman_student: feels very happy when learning new things <br>

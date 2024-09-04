@@ -44,7 +44,7 @@
 
 <div> 
 <a href = "mailto:contato.priscilacastro24@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/patr%C3%ADcia-bongiovanni-catandi-13650ba1](https://www.linkedin.com/in/priscila-pc/)/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/priscila-pc//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 <!--
